@@ -49,4 +49,4 @@ console.log(typeof dineroKnekro)
 
 // 9. A continuación, modifica los valores de las constantes
 
-// 10. Comenta las líneas que produzcan algún tipo de error al ejecutarser
+// 10. Comenta las líneas que produzcan algún tipo de error al ejecutarse
