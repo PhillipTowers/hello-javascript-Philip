@@ -132,6 +132,7 @@ function revertirCadena(cadena) {
 
 const texto = "ejemplo"; // Cadena de texto en una variable
 console.log(revertirCadena(texto)); // Debería devolver "olpmje"
+
 // 10. Crea una función que calcule el factorial de un número dado
 function factorial(n) {
     let resultado = 1;
